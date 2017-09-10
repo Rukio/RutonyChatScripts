@@ -1,5 +1,5 @@
 # RutonyChatScripts
-My scripts to Rutony Chat
+My scripts for Rutony Chat
 
 Привет! Мои скрипты для Rutony Chat
 В ветке master - полностью отлаженные скрипты готовые к релизу
