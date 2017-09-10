@@ -15,10 +15,10 @@ felix.cs
 felixdef.cs
 
 goose.cs
-gosseinv.cs
-gossesel.cs
+gooseinv.cs
+goosesel.cs
 rainbow.cs
-reinbownew.cs
+rainbownew.cs
 test.cs
 clean.cs
 
@@ -30,5 +30,6 @@ bot_get_custom_credits.cs
 bot_queue_switcher.cs
 bot_revolver.cs
 mark.lua
-mak2.lua
+mark2.lua
 robbery.cs
+robberyold.cs
