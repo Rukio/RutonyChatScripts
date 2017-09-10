@@ -23,6 +23,10 @@ test.cs
 clean.cs
 
 
+#old scripts
+robberyold.cs
+dragonold.cs
+
 #standart rutony
 8ball.lua
 bot_currenttrack.cs
@@ -31,5 +35,3 @@ bot_queue_switcher.cs
 bot_revolver.cs
 mark.lua
 mark2.lua
-robbery.cs
-robberyold.cs
