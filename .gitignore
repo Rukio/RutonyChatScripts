@@ -1,0 +1,34 @@
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+@@ -0,0 +1,27 @@
+#CFG
+*.txt
+*.json
+
+#scripts
+
+felix.cs
+felixdef.cs
+
+goose.cs
+gosseinv.cs
+gossesel.cs
+rainbow.cs
+reinbownew.cs
+test.cs
+clean.cs
+
+
+#standart rutony
+8ball.lua
+bot_currenttrack.cs
+bot_get_custom_credits.cs
+bot_queue_switcher.cs
+bot_revolver.cs
+mark.lua
+mak2.lua
+robbery.cs
