@@ -22,6 +22,10 @@ rainbownew.cs
 test.cs
 clean.cs
 
+#oldscripts
+robberyold.cs
+dragonold.cs
+
 
 #standart rutony
 8ball.lua
@@ -31,5 +35,4 @@ bot_queue_switcher.cs
 bot_revolver.cs
 mark.lua
 mark2.lua
-robbery.cs
-robberyold.cs
+
